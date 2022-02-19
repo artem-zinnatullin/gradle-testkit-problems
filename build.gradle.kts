@@ -15,5 +15,5 @@ dependencies {
     }
 
     // Uncomment to break the build "./gradlew assemble"
-    implementation(gradleTestKit())
+    //implementation(gradleTestKit())
 }
